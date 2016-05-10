@@ -1,0 +1,14 @@
+# Decision_tree Classifier
+# week1 assignment for Machine learning for Data Analysis
+
+dataset: tree_addhealth.csv
+
+features: 'BIO_SEX','HISPANIC','WHITE','BLACK','NAMERICAN','ASIAN',
+'age','ALCEVR1','ALCPROBS1','marever1','cocever1','inhever1','cigavail','DEP1',
+'ESTEEM1','VIOL1','PASSIST','DEVIANT1','SCHCONN1','GPA1','EXPEL1','FAMCONCT','PARACTV',
+'PARPRES'
+
+target: TREG1
+
+# Test Accuracy: 0.782513661202
+
